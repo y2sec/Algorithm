@@ -4,7 +4,6 @@
 -[1427 - 소트인사이드](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1427_Problem.py)
 
 +[1874 - 스택 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1874_Problem.py)
-
 +[1920 - 수 찾기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1920_Problem.py)
 
 +[1966 - 프린터 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1966_Problem.py)
