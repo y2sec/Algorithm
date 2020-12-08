@@ -29,3 +29,7 @@ Baekjoon Online Judge
 
 * [10930 - SHA-256](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10930_Problem.py)
 
+* [10989 - 수 정렬하기3](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10989_Problem.py)
+
+* [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
+
