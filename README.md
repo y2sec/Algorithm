@@ -33,3 +33,5 @@ Baekjoon Online Judge
 
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
 
+* [16769 - Mixing Milk](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16769_Problem.py)
+
