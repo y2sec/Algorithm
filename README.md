@@ -13,6 +13,12 @@ Baekjoon Online Judge
 
 * [1966 - 프린터 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1966_Problem.py)
 
+* [2480 - 주사위 세개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2480_Problem.py)
+
+* [2484 - 주사위 네개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2484_Problem.py)
+
+* [2747 - 피보나치 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2747_Problem.py)
+
 * [2750 - 수 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2750_Problem.py)
 
 * [2798 - 블랙잭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2798_Problem.py)
