@@ -29,6 +29,8 @@ Baekjoon Online Judge
 
 * [5397 - 키로거](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5397_Problem.py)
 
+* [7490 - 0 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7490_Problem.py)
+
 * [9037 - The candy war](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9037_Problem.py)
 
 * [10814 - 나이순 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10814_Problem.py)
@@ -38,6 +40,8 @@ Baekjoon Online Judge
 * [10989 - 수 정렬하기3](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10989_Problem.py)
 
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
+
+* [16675 - 두 개의 손](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16675_Problem.py)
 
 * [16769 - Mixing Milk](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16769_Problem.py)
 
