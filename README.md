@@ -23,6 +23,8 @@ Baekjoon Online Judge
 
 * [2750 - 수 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2750_Problem.py)
 
+* [2751 - 수 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2751_Problem.py)
+
 * [2798 - 블랙잭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2798_Problem.py)
 
 * [2920 - 음계 문제](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2920_Problem.py)
