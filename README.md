@@ -43,6 +43,8 @@ Baekjoon Online Judge
 
 * [10989 - 수 정렬하기3](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10989_Problem.py)
 
+* [11004 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11004_Problem.py)
+
 * [11399 - ATM](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11399_Problem.py)
   
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
@@ -50,4 +52,6 @@ Baekjoon Online Judge
 * [16675 - 두 개의 손](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16675_Problem.py)
 
 * [16769 - Mixing Milk](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16769_Problem.py)
+
+* [17413 - 단어 뒤집기2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17413_Problem.py)
 
