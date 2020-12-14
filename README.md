@@ -1,5 +1,5 @@
 # Algorithm
-알고리즘 정리 및 각종 문제 풀이
+알고리즘 정리 및 알고리즘 문제 풀이입니다. 문제 번호와 이름을 모두 기재하였으니 검색하셔서 보시면 편합니다.
 
 ---
 
@@ -8,6 +8,8 @@ Baekjoon Online Judge
 * [1074 - Z](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1074_Problem.py)
 
 * [1427 - 소트인사이드](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1427_Problem.py)
+
+* [1543 - 문서 검색](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1543_Problem.py)
 
 * [1874 - 스택 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1874_Problem.py)
 
@@ -43,7 +45,7 @@ Baekjoon Online Judge
 
 * [10989 - 수 정렬하기3](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10989_Problem.py)
 
-* [11004 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11004_Problem.py)
+* [11004 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11399_Problem.py)
 
 * [11399 - ATM](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11399_Problem.py)
   
