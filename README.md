@@ -59,5 +59,9 @@ Baekjoon Online Judge
 
 * [16769 - Mixing Milk](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16769_Problem.py)
 
+* [16956 - 늑대와 양](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16956_Problem.py)
+
+* [17224 - APC는 왜 서브태스크 대회가 되었을까?](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17224_Problem.py)
+
 * [17413 - 단어 뒤집기2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17413_Problem.py)
 
