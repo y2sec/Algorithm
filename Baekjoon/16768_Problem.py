@@ -1,7 +1,7 @@
 # 16768 Mooyo Mooyo
 
 # 위에 있는 블록들을 아래로 내리기 위한 메소드
-def sort():
+def down():
     swap = False
     for y in range(M):
         for x in range(N-1, -1, -1):
@@ -49,7 +49,7 @@ while True:
         for j in range(len(mymy[i])):
             if mymy[i][j] != '0':
                 crash(mymy[i][j])
-    if not sort():
+    if not down():
         break
 
 for i in range(N):
