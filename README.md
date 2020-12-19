@@ -7,6 +7,8 @@
 Baekjoon Online Judge
 * [1074 - Z](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1074_Problem.py)
 
+* [1236 - 성 지키기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1236_Problem.py)
+
 * [1302 - 베스트셀러](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1302_Problem.py)
 
 * [1427 - 소트인사이드](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1427_Problem.py)
@@ -14,6 +16,8 @@ Baekjoon Online Judge
 * [1543 - 문서 검색](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1543_Problem.py)
 
 * [1568 - 새](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1568_Problem.py)
+
+* [1668 - 트로피 진열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1668_Problem.py)
 
 * [1874 - 스택 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1874_Problem.py)
 
@@ -55,7 +59,11 @@ Baekjoon Online Judge
   
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
 
+* [14620 - 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
+
 * [16675 - 두 개의 손](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16675_Problem.py)
+
+* [16768 - Mooyo Mooyo](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16768_Problem.py)
 
 * [16769 - Mixing Milk](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16769_Problem.py)
 
