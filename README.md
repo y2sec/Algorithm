@@ -59,7 +59,11 @@ Baekjoon Online Judge
   
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
 
+* [12100 - 2048(Easy)](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12100_Problem.py)
+
 * [14620 - 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
+
+* [16165 - 걸그룹 마스터 준석이](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16165_Problem.py)
 
 * [16675 - 두 개의 손](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16675_Problem.py)
 
@@ -70,6 +74,10 @@ Baekjoon Online Judge
 * [16956 - 늑대와 양](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16956_Problem.py)
 
 * [17224 - APC는 왜 서브태스크 대회가 되었을까?](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17224_Problem.py)
+
+* [17269 - 이름궁합 테스트](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17269_Problem.py)
+
+* [17389 - 보너스 점수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17389_Problem.py)
 
 * [17413 - 단어 뒤집기2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17413_Problem.py)
 
