@@ -59,7 +59,7 @@ Baekjoon Online Judge
   
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
 
-* [12100 - 2048(Easy)](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12100_Problem.py)
+* [12100 - 2048(Easy) *개선 필요](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12100_Problem.py)
 
 * [14620 - 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
 
