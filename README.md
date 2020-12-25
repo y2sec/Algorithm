@@ -47,6 +47,8 @@ Baekjoon Online Judge
 
 * [9037 - The candy war](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9037_Problem.py)
 
+* [10539 - 수빈이와 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10539_Problem.py)
+
 * [10814 - 나이순 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10814_Problem.py)
 
 * [10930 - SHA-256](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10930_Problem.py)
@@ -62,6 +64,8 @@ Baekjoon Online Judge
 * [12100 - 2048(Easy) *개선 필요](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12100_Problem.py)
 
 * [14620 - 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
+
+* [15969 - 행복](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/15969_Problem.py)
 
 * [16165 - 걸그룹 마스터 준석이](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16165_Problem.py)
 
