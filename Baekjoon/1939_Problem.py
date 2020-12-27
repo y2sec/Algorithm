@@ -23,7 +23,6 @@ bridges = dict()
 min_weight = 1000000000
 max_weight = 1
 
-# 이진 탐색을 통해 건널 수 있는 최대 값을 구함
 for _ in range(m):
     s, e, w = map(int, input().split())
     if s not in bridges:
@@ -47,6 +46,7 @@ for _ in range(m):
     min_weight = min(min_weight, w)
     max_weight = max(max_weight, w)
 
+# 이진 탐색을 통해 건널 수 있는 최대 값을 구함
 start, end = map(int, input().split())
 result = min_weight
 while min_weight <= max_weight:
