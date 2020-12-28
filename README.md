@@ -23,6 +23,10 @@ Baekjoon Online Judge
 
 * [1920 - 수 찾기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1920_Problem.py)
 
+* [1932 - 정수 삼각형](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1932_Problem.py)
+
+* [1939 - 중량제한](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1939_Problem.py)
+
 * [1966 - 프린터 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1966_Problem.py)
 
 * [2480 - 주사위 세개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2480_Problem.py)
@@ -57,6 +61,8 @@ Baekjoon Online Judge
 
 * [11004 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11399_Problem.py)
 
+* [11055 - 가장 큰 증가 부분 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11055_Problem.py)
+
 * [11399 - ATM](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11399_Problem.py)
   
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
@@ -82,6 +88,8 @@ Baekjoon Online Judge
 * [17269 - 이름궁합 테스트](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17269_Problem.py)
 
 * [17389 - 보너스 점수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17389_Problem.py)
+
+* [17406 - 배열 돌리기4](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17406_Problem.py)
 
 * [17413 - 단어 뒤집기2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17413_Problem.py)
 
