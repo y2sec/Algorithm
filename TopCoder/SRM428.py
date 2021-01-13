@@ -12,7 +12,6 @@ def solution(s):
             end -= 1
         start += 1
 
-    print(lst)
     print(len(lst))
 
 
