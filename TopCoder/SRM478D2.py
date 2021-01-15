@@ -1,4 +1,4 @@
-# SRM478 KiwiJuiceEasy
+# SRM478D2 KiwiJuiceEasy
 
 def solution(capacities, bottles, fromId, toId):
     for i in range(len(fromId)):
