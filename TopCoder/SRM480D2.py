@@ -1,4 +1,4 @@
-# SRM480 Cryptography
+# SRM480D2 Cryptography
 
 def solution(numbers):
     result = 0
