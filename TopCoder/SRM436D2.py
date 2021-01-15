@@ -1,4 +1,4 @@
-# SRM436 FriendScore
+# SRM436D2 FriendScore
 
 def solution(friends):
     for i in range(N):
