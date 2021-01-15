@@ -1,4 +1,4 @@
-# SRM494 Interesting Party
+# SRM494D2 Interesting Party
 
 def solution(first, second):
     field = dict()
