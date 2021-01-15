@@ -1,4 +1,4 @@
-# SRM428 ThePalindrome
+# SRM428D2 ThePalindrome
 
 def solution(s):
     start, end = 0, len(s)-1
