@@ -1,4 +1,4 @@
-# SRM150 InterestingDigits
+# SRM150D2 InterestingDigits
 
 def conversion(number, base):
     strNum = []
