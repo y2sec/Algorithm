@@ -6,6 +6,8 @@ def dfs(x, y, cnt):
     if 0 > x or x >= len(maze) or 0 > y or y >= len(maze[0]) or maze[x][y] == 'X':
         return
     else:
+        if maze_min[x][y] < cnt:
+            return
         maze[x][y] = 'X'
         maze_min[x][y] = min(maze_min[x][y], cnt)
 
@@ -32,12 +34,12 @@ def dfs(x, y, cnt):
 # moveRow = [1, 0, -1, 0]
 # moveCol = [0, 1, 0, -1]
 
-# maze = [['.', '.', '.', '.', '.', '.', '.'], ['X', '.', 'X', '.', 'X', '.', '.'], ['X', 'X', 'X', '.', '.', '.', 'X'],
-#         ['.', '.', '.', '.', 'X', '.', '.'], ['X', '.', '.', '.', '.', 'X', '.'], ['.', '.', '.', '.', '.', '.', '.']]
-# startRow = 5
-# startCol = 0
-# moveRow = [1, 0, -1, 0, -2, 1]
-# moveCol = [0, -1, 0, 1, 3, 0]
+maze = [['.', '.', '.', '.', '.', '.', '.'], ['X', '.', 'X', '.', 'X', '.', '.'], ['X', 'X', 'X', '.', '.', '.', 'X'],
+        ['.', '.', '.', '.', 'X', '.', '.'], ['X', '.', '.', '.', '.', 'X', '.'], ['.', '.', '.', '.', '.', '.', '.']]
+startRow = 5
+startCol = 0
+moveRow = [1, 0, -1, 0, -2, 1]
+moveCol = [0, -1, 0, 1, 3, 0]
 
 # maze = [['.', '.', '.', '.', '.', '.', '.']]
 # startRow = 0
@@ -45,11 +47,11 @@ def dfs(x, y, cnt):
 # moveRow = [1, 0, 1, 0, 1, 0]
 # moveCol = [0, 1, 0, 1, 0, 1]
 
-maze = [['.', '.', 'X', '.', 'X', '.', 'X', '.', 'X', '.', 'X', '.', 'X', '.']]
-startRow = 0
-startCol = 0
-moveRow = [2, 0, -2, 0]
-moveCol = [0, 2, 0, -2]
+# maze = [['.', '.', 'X', '.', 'X', '.', 'X', '.', 'X', '.', 'X', '.', 'X', '.']]
+# startRow = 0
+# startCol = 0
+# moveRow = [2, 0, -2, 0]
+# moveCol = [0, 2, 0, -2]
 
 maze_min = []
 for i in range(len(maze)):
