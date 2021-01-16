@@ -8,8 +8,12 @@
 
 * [SRM436 Div2 - FriendScore](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM436D2.py)
 
+* [SRM453.5 Div2 - MazeMaker](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM453.5D2.py)
+
 * [SRM478 Div2 - KiwiJuiceEasy](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM478D2.py)
 
 * [SRM480 Div2 - Cryptography](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM480D2.py)
+
+* [SRM484 Div2 - NumberMagicEasy](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM484D2.py)
 
 * [SRM494 Div2 - Interesting Party](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM494D2.py)
