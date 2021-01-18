@@ -80,6 +80,8 @@
 
 * [12849 - 본대 산책](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12849_Problem.py)
 
+* [12865 - 평범한 배낭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12865_Problem.py)
+
 * [14620 - 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
 
 * [15969 - 행복](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/15969_Problem.py)
