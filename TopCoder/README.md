@@ -1,5 +1,9 @@
 ## TopCoder SRM
 
+* [2004TCCC Round4 Div1 - BadNeighbors](https://github.com/y2sec/Algorithm/blob/master/TopCoder/2004TCCCR4D1.py)
+
+* [Collegiate Round4 Div1 - ChessMetric](https://github.com/y2sec/Algorithm/blob/master/TopCoder/CollegiateR4D1.py)
+
 * [SRM150 Div2 - InterestingDigits](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM150D2.py)
 
 * [SRM407 Div2 - CorporationSalary](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM407D2.py)
