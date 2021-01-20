@@ -1,5 +1,5 @@
 # SRM363D2 HandShaking
-
+# 카탈랑 수
 n = 10
 
 handshaking = [0 for _ in range(n//2+1)]
