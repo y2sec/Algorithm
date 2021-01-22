@@ -6,6 +6,10 @@
 
 * [SRM150 Div2 - InterestingDigits](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM150D2.py)
 
+* [SRM232 Div2 - StockHistory](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM232D2.py)
+
+* [SRM363 Div2 - HandShaking](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM363D2.py)
+
 * [SRM407 Div2 - CorporationSalary](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM407D2.py)
 
 * [SRM425 Div2 - CrazyBot](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM425D2.py)
@@ -15,6 +19,8 @@
 * [SRM436 Div2 - FriendScore](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM436D2.py)
 
 * [SRM453.5 Div2 - MazeMaker](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM453.5D2.py)
+
+* [SRM464 Div2 - ColorfulBoxesAndBalls](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM464D2.py)
 
 * [SRM478 Div2 - KiwiJuiceEasy](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM478D2.py)
 
