@@ -8,6 +8,8 @@
 
 * [SRM232 Div2 - StockHistory](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM232D2.py)
 
+* [SRM258 Div2 - AutoLoan](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM258D2.py)
+
 * [SRM363 Div2 - HandShaking](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM363D2.py)
 
 * [SRM407 Div2 - CorporationSalary](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM407D2.py)
@@ -17,6 +19,8 @@
 * [SRM428 Div2 - ThePalindrome](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM428D2.py)
 
 * [SRM436 Div2 - FriendScore](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM436D2.py)
+
+* [SRM443 Div2 - CirclesCountry](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM443D2.py)
 
 * [SRM453.5 Div2 - MazeMaker](https://github.com/y2sec/Algorithm/blob/master/TopCoder/SRM453.5D2.py)
 
