@@ -21,7 +21,7 @@ ans = 0
 while minInterestRate < maxInterestRate:
     cpPrice = price
     for i in range(loanTerm):
-        cpPrice *= (((midInterestRate / 100) / 12) + 1)
+        cpPrice *= ((midInterestRate / 1200) + 1)
         cpPrice -= monthlyPaymemt
     if cpPrice == 0 or (maxInterestRate - minInterestRate) <= 1e-9:
         ans = midInterestRate
