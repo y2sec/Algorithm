@@ -1,5 +1,7 @@
 ## Baekjoon Online Judge
 
+* [1018 - 체스판 다시 칠하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1018_Problem.py)
+
 * [1074 - Z](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1074_Problem.py)
 
 * [1080 - 행렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1080_Problem.py)
@@ -10,6 +12,8 @@
 
 * [1427 - 소트인사이드](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1427_Problem.py)
 
+* [1436 - 영화감독 숌](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1436_Problem.py)
+  
 * [1543 - 문서 검색](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1543_Problem.py)
 
 * [1568 - 새](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1568_Problem.py)
