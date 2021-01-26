@@ -27,12 +27,13 @@ def countPaths():
             free += 1
         elif count[i] == 1 and not visit[i]:
             dfs(i, visit)
+            group += 1
 
     for v in visit:
         if not v:
             return 0
 
-    for i in range(2, group+free):
+    for i in range(2, group+free+1):
         ans *= i
 
     ans *= (2 * group)
@@ -42,6 +43,4 @@ def countPaths():
 
 N = 3
 roads = [input() for _ in range(N)]
-
-
-
+print(countPaths())
