@@ -15,6 +15,7 @@
         <list>
           <option value="list.__getitem__" />
           <option value="tuple.__setitem__" />
+          <option value="list.__sub__" />
         </list>
       </option>
     </inspection_tool>
