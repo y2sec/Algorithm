@@ -72,11 +72,19 @@
 
 * [7490 - 0 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7490_Problem.py)
 
+* [9012 - 괄호](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9012_Problem.py)
+
 * [9037 - The candy war](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9037_Problem.py)
+
+* [9663 - N-Queen](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9663_Problem.py)
 
 * [10539 - 수빈이와 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10539_Problem.py)
 
+* [10773 - 제로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10773_Problem.py)
+  
 * [10814 - 나이순 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10814_Problem.py)
+
+* [10828 - 스택](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10828_Problem.py)
 
 * [10930 - SHA-256](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10930_Problem.py)
 
@@ -99,6 +107,10 @@
 * [12865 - 평범한 배낭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12865_Problem.py)
 
 * [14620 - 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
+
+* [14888 - 연산자 끼워넣기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14888_Problem.py)
+
+* [14889 - 스타트와 링크](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14889_Problem.py)
 
 * [15649 - N과 M (1)](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/15649_Problem.py)
 
