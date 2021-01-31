@@ -68,6 +68,8 @@
 
 * [4195 - 친구 네트워크](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4195_Problem.py)
 
+* [4949 - 균형잡힌 세상](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4949_Problem.py)
+
 * [5397 - 키로거](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5397_Problem.py)
 
 * [7490 - 0 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7490_Problem.py)
