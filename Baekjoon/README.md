@@ -2,6 +2,8 @@
 
 * [1018 - 체스판 다시 칠하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1018_Problem.py)
 
+* [1037 - 약수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1037_Problem.py)
+
 * [1074 - Z](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1074_Problem.py)
 
 * [1080 - 행렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1080_Problem.py)
@@ -34,6 +36,8 @@
 
 * [1932 - 정수 삼각형](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1932_Problem.py)
 
+* [1934 - 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1934_Problem.py)
+
 * [1939 - 중량제한](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1939_Problem.py)
 
 * [1966 - 프린터 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1966_Problem.py)
@@ -56,6 +60,8 @@
 
 * [2484 - 주사위 네개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2484_Problem.py)
 
+* [2609 - 최대공약수와 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2609_Problem.py)
+
 * [2747 - 피보나치 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2747_Problem.py)
 
 * [2750 - 수 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2750_Problem.py)
@@ -66,9 +72,13 @@
 
 * [2920 - 음계 문제](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2920_Problem.py)
 
+* [2981 - 검문](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2981_Problem.py)
+
 * [4195 - 친구 네트워크](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4195_Problem.py)
 
 * [4949 - 균형잡힌 세상](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4949_Problem.py)
+
+* [5086 - 배수와 약수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5086_Problem.py)
 
 * [5397 - 키로거](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5397_Problem.py)
 
@@ -139,6 +149,8 @@
 * [17224 - APC는 왜 서브태스크 대회가 되었을까?](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17224_Problem.py)
 
 * [17269 - 이름궁합 테스트](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17269_Problem.py)
+
+* [17298 - 오큰수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17298_Problem.py)
 
 * [17389 - 보너스 점수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17389_Problem.py)
 
