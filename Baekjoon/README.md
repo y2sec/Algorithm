@@ -18,6 +18,8 @@
 
 * [1436 - 영화감독 숌](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1436_Problem.py)
   
+* [1541 - 잃어버린 괄호](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1541_Problem.py)
+
 * [1543 - 문서 검색](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1543_Problem.py)
 
 * [1568 - 새](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1568_Problem.py)
@@ -34,6 +36,8 @@
 
 * [1927 - 최소 힙](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1927_Problem.py)
 
+* [1931 - 회의실 배정](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1931_Problem.py)
+  
 * [1932 - 정수 삼각형](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1932_Problem.py)
 
 * [1934 - 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1934_Problem.py)
@@ -102,7 +106,9 @@
 
 * [10989 - 수 정렬하기3](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10989_Problem.py)
 
-* [11004 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11399_Problem.py)
+* [11004 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11004_Problem.py)
+
+* [11047 - 동전 0](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11047_Problem.py)
 
 * [11055 - 가장 큰 증가 부분 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11055_Problem.py)
 
@@ -117,6 +123,8 @@
 * [12849 - 본대 산책](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12849_Problem.py)
 
 * [12865 - 평범한 배낭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12865_Problem.py)
+
+* [13305 - 주유소](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/13305_Problem.py)
 
 * [14620 - 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
 
