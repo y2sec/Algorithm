@@ -18,6 +18,8 @@
 
 * [1436 - 영화감독 숌](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1436_Problem.py)
   
+* [1504 - 특정한 최단 경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1504_Problem.py)
+
 * [1541 - 잃어버린 괄호](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1541_Problem.py)
 
 * [1543 - 문서 검색](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1543_Problem.py)
@@ -29,6 +31,8 @@
 * [1668 - 트로피 진열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1668_Problem.py)
 
 * [1715 - 카드 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1715_Problem.py)
+
+* [1753 - 최단경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1753_Problem.py)
 
 * [1874 - 스택 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1874_Problem.py)
 
@@ -103,6 +107,8 @@
 * [9012 - 괄호](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9012_Problem.py)
 
 * [9037 - The candy war](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9037_Problem.py)
+
+* [9370 - 미확인 도착지](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9370_Problem.py)
 
 * [9663 - N-Queen](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9663_Problem.py)
 
