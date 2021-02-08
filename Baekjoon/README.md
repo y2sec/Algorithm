@@ -2,6 +2,8 @@
 
 * [1018 - 체스판 다시 칠하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1018_Problem.py)
 
+* [1021 - 회전하는 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1021_Problem.py)
+
 * [1037 - 약수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1037_Problem.py)
 
 * [1074 - Z](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1074_Problem.py)
@@ -60,6 +62,8 @@
 
 * [2110 - 공유기 설치](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2110_Problem.py)
 
+* [2164 - 카드2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2164_Problem.py)
+
 * [2167 - 2차원 배열의 합](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2167_Problem.py)
 
 * [2178 - 미로 탐색](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2178_Problem.py)
@@ -98,6 +102,8 @@
 
 * [5397 - 키로거](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5397_Problem.py)
 
+* [5430 - AC](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5430_Problem.py)
+
 * [7490 - 0 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7490_Problem.py)
 
 * [7569 - 토마토](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7569_Problem.py)
@@ -120,6 +126,8 @@
 
 * [10828 - 스택](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10828_Problem.py)
 
+* [10866 - 덱](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10866_Problem.py)
+
 * [10930 - SHA-256](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10930_Problem.py)
 
 * [10989 - 수 정렬하기3](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10989_Problem.py)
@@ -139,6 +147,8 @@
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
 
 * [11651 - 좌표 정렬하기 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11651_Problem.py)
+
+* [11866 - 요세푸스 문제0](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11866_Problem.py)
 
 * [12100 - 2048(Easy) *개선 필요](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12100_Problem.py)
 
@@ -188,3 +198,4 @@
 
 * [17413 - 단어 뒤집기2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17413_Problem.py)
 
+* [18258 - 큐 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/18258_Problem.py)
