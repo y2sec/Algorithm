@@ -14,7 +14,7 @@ def chk(x, y, n):
     return True
 
 
-def cuting(x, y, n):
+def cutting(x, y, n):
     global white, blue
     if n < 1:
         return
@@ -24,17 +24,17 @@ def cuting(x, y, n):
         else:
             white += 1
         return
-    cuting(x, y, n//2)
-    cuting(x, y+(n//2), n//2)
-    cuting(x+(n//2), y, n//2)
-    cuting(x+(n//2), y+(n//2), n//2)
+    cutting(x, y, n//2)
+    cutting(x, y+(n//2), n//2)
+    cutting(x+(n//2), y, n//2)
+    cutting(x+(n//2), y+(n//2), n//2)
 
 
 N = int(sys.stdin.readline())
 colorPaper = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 white = 0
 blue = 0
-cuting(0, 0, N)
+cutting(0, 0, N)
 
 print(white)
 print(blue)
