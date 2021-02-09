@@ -20,7 +20,7 @@ def zipVideo(x, y, n):
         return
     print('(', end='')
     zipVideo(x, y, n//2)
-    zipVideo(x, y + (n // 2), n // 2)
+    zipVideo(x, y+(n//2), n//2)
     zipVideo(x+(n//2), y, n//2)
     zipVideo(x+(n//2), y+(n//2), n//2)
     print(')', end='')
