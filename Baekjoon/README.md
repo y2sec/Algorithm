@@ -28,6 +28,8 @@
 
 * [1568 - 새](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1568_Problem.py)
 
+* [1629 - 곱셈](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1629_Problem.py)
+
 * [1655 - 가운데를 말해요](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1655_Problem.py)
 
 * [1668 - 트로피 진열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1668_Problem.py)
@@ -36,6 +38,8 @@
 
 * [1753 - 최단경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1753_Problem.py)
 
+* [1780 - 종이의 개수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1780_Problem.py)
+  
 * [1874 - 스택 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1874_Problem.py)
 
 * [1915 - 가장 큰 정사각형](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1915_Problem.py)
@@ -55,6 +59,8 @@
 * [1966 - 프린터 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1966_Problem.py)
 
 * [1991 - 트리 순회](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1991_Problem.py)
+
+* [1992 - 쿼드트리](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1992_Problem.py)
 
 * [2014 - 소수의 곱](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2014_Problem.py)
 
@@ -80,7 +86,11 @@
 
 * [2609 - 최대공약수와 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2609_Problem.py)
 
+* [2630 - 색종이 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2630_Problem.py)
+
 * [2667 - 단지번호붙이기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2667_Problem.py)
+
+* [2740 - 행렬 곱셈](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2740_Problem.py)
 
 * [2747 - 피보나치 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2747_Problem.py)
 
@@ -126,6 +136,8 @@
 
 * [10828 - 스택](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10828_Problem.py)
 
+* [10830 - 행렬 제곱](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10830_Problem.py)
+  
 * [10866 - 덱](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10866_Problem.py)
 
 * [10930 - SHA-256](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10930_Problem.py)
@@ -144,6 +156,8 @@
 
 * [11399 - ATM](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11399_Problem.py)
   
+* [11444 - 피보나치 수 6](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11444_Problem.py)
+
 * [11650 - 좌표 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11650_Problem.py)
 
 * [11651 - 좌표 정렬하기 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11651_Problem.py)
