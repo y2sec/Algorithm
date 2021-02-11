@@ -36,6 +36,8 @@
 
 * [1715 - 카드 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1715_Problem.py)
 
+* [1717 - 집합의 표현](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1717_Problem.py)
+
 * [1753 - 최단경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1753_Problem.py)
 
 * [1780 - 종이의 개수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1780_Problem.py)
@@ -57,6 +59,8 @@
 * [1939 - 중량제한](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1939_Problem.py)
 
 * [1966 - 프린터 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1966_Problem.py)
+
+* [1976 - 여행 가자](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1976_Problem.py)
 
 * [1991 - 트리 순회](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1991_Problem.py)
 
@@ -213,3 +217,5 @@
 * [17413 - 단어 뒤집기2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17413_Problem.py)
 
 * [18258 - 큐 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/18258_Problem.py)
+
+* [20040 - 사이클 게임](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/20040_Problem.py)
