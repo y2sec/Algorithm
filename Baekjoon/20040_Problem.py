@@ -1,6 +1,8 @@
 # 20040 사이클 게임
 
 import sys
+sys.setrecursionlimit(10**6)
+
 
 def find(a):
     if parent[a] == a:
