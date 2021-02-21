@@ -1,5 +1,7 @@
 ## Baekjoon Online Judge
 
+* [1003 - 피보나치 함수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1003_Problem.py)
+
 * [1018 - 체스판 다시 칠하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1018_Problem.py)
 
 * [1021 - 회전하는 큐](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1021_Problem.py)
@@ -9,6 +11,8 @@
 * [1074 - Z](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1074_Problem.py)
 
 * [1080 - 행렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1080_Problem.py)
+
+* [1149 - RGB거리](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1149_Problem.py)
 
 * [1181 - 단어 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1181_Problem.py)
 
@@ -20,6 +24,8 @@
 
 * [1436 - 영화감독 숌](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1436_Problem.py)
   
+* [1463 - 1로 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1463_Problem.py)
+
 * [1504 - 특정한 최단 경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1504_Problem.py)
 
 * [1541 - 잃어버린 괄호](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1541_Problem.py)
@@ -73,6 +79,8 @@
 * [2108 - 통계학](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2108_Problem.py)
 
 * [2110 - 공유기 설치](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2110_Problem.py)
+
+* [2156 - 포도주 시식](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2156_Problem.py)
 
 * [2164 - 카드2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2164_Problem.py)
 
@@ -130,7 +138,11 @@
 
 * [9037 - The candy war](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9037_Problem.py)
 
+* [9184 - 신나는 함수 실행](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9184_Problem.py)
+
 * [9370 - 미확인 도착지](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9370_Problem.py)
+
+* [9461 - 파도반 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9461_Problem.py)
 
 * [9663 - N-Queen](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9663_Problem.py)
 
@@ -146,6 +158,8 @@
 
 * [10830 - 행렬 제곱](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10830_Problem.py)
   
+* [10844 - 쉬운 계단 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10844_Problem.py)
+
 * [10866 - 덱](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10866_Problem.py)
 
 * [10930 - SHA-256](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10930_Problem.py)
