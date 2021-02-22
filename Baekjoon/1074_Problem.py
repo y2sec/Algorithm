@@ -1,31 +1,39 @@
 # 1074 Z
 
-def z(N, x, y):
+def z(n, x, y):
     global result
-    if N == 2:
+
+    if x > r or x + n < r:
+        result += n ** 2
+        return
+    elif y > c or y + n < c:
+        result += n ** 2
+        return
+
+    if n == 2:
         if (r, c) == (x, y):
             print(result)
-            return
+            exit()
         result += 1
         if (r, c) == (x, y + 1):
             print(result)
-            return
+            exit()
         result += 1
         if (r, c) == (x + 1, y):
             print(result)
-            return
+            exit()
         result += 1
         if (r, c) == (x + 1, y + 1):
             print(result)
-            return
+            exit()
         result += 1
         return
-    z(N / 2, x, y)
-    z(N / 2, x, y + N / 2)
-    z(N / 2, x + N / 2, y)
-    z(N / 2, x + N / 2, y + N / 2)
+    z(n // 2, x, y)
+    z(n // 2, x, y + n // 2)
+    z(n // 2, x + n // 2, y)
+    z(n // 2, x + n // 2, y + n // 2)
 
 
-result = 0
 N, r, c = map(int, input().split())
-z(2 ** N, 0, 0)
+result = 0
+z(2**N, 0, 0)
