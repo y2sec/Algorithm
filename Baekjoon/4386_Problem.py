@@ -42,8 +42,8 @@ N = int(sys.stdin.readline())
 stars = [list(map(float, sys.stdin.readline().split())) for _ in range(N)]
 queue = []
 for i in range(N):
-    for j in range(i+1, N):
+    for j in range(i + 1, N):
         heapq.heappush(queue, [two_stars_length(stars[i], stars[j]), i, j])
 
 parent = [x for x in range(N)]
-print(round(mst(queue), 2))
+print('%.2f' % mst(queue))
