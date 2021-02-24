@@ -16,6 +16,8 @@
 
 * [1181 - 단어 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1181_Problem.py)
 
+* [1197 - 최소 스패닝 트리](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1197_Problem.py)
+
 * [1236 - 성 지키기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1236_Problem.py)
 
 * [1300 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1300_Problem.py)
@@ -49,6 +51,8 @@
 * [1717 - 집합의 표현](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1717_Problem.py)
 
 * [1753 - 최단경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1753_Problem.py)
+
+* [1774 - 우주신과의 교감](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1774_Problem.py)
 
 * [1780 - 종이의 개수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1780_Problem.py)
   
@@ -124,11 +128,15 @@
 
 * [2805 - 나무 자르기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2805_Problem.py)
 
+* [2887 - 행성 터널](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2887_Problem.py)
+
 * [2920 - 음계 문제](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2920_Problem.py)
 
 * [2981 - 검문](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2981_Problem.py)
 
 * [4195 - 친구 네트워크](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4195_Problem.py)
+
+* [4386 - 별자리 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4386_Problem.py)
 
 * [4949 - 균형잡힌 세상](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4949_Problem.py)
 
@@ -152,6 +160,8 @@
 
 * [9370 - 미확인 도착지](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9370_Problem.py)
 
+* [9372 상근이의 여행](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9372_Problem.py)
+  
 * [9461 - 파도반 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9461_Problem.py)
 
 * [9663 - N-Queen](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9663_Problem.py)
@@ -249,6 +259,8 @@
 * [17406 - 배열 돌리기4](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17406_Problem.py)
 
 * [17413 - 단어 뒤집기2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17413_Problem.py)
+
+* [17472 - 다리 만들기 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/17472_Problem.py)
 
 * [18258 - 큐 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/18258_Problem.py)
 
