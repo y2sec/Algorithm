@@ -18,6 +18,8 @@
 
 * [1236 - 성 지키기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1236_Problem.py)
 
+* [1300 - K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1300_Problem.py)
+
 * [1302 - 베스트셀러](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1302_Problem.py)
 
 * [1427 - 소트인사이드](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1427_Problem.py)
@@ -36,6 +38,8 @@
 
 * [1629 - 곱셈](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1629_Problem.py)
 
+* [1654 - 랜선 자르기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1654_Problem.py)
+
 * [1655 - 가운데를 말해요](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1655_Problem.py)
 
 * [1668 - 트로피 진열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1668_Problem.py)
@@ -49,6 +53,8 @@
 * [1780 - 종이의 개수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1780_Problem.py)
   
 * [1874 - 스택 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1874_Problem.py)
+
+* [1912 - 연속합](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1912_Problem.py)
 
 * [1915 - 가장 큰 정사각형](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1915_Problem.py)
 
@@ -98,6 +104,8 @@
 
 * [2484 - 주사위 네개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2484_Problem.py)
 
+* [2565 - 전깃줄](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2565_Problem.py)
+
 * [2609 - 최대공약수와 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2609_Problem.py)
 
 * [2630 - 색종이 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2630_Problem.py)
@@ -113,6 +121,8 @@
 * [2751 - 수 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2751_Problem.py)
 
 * [2798 - 블랙잭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2798_Problem.py)
+
+* [2805 - 나무 자르기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2805_Problem.py)
 
 * [2920 - 음계 문제](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2920_Problem.py)
 
@@ -153,6 +163,8 @@
 * [10773 - 제로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10773_Problem.py)
   
 * [10814 - 나이순 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10814_Problem.py)
+
+* [10816 - 숫자 카드 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10816_Problem.py)
 
 * [10828 - 스택](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10828_Problem.py)
 
@@ -241,3 +253,9 @@
 * [18258 - 큐 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/18258_Problem.py)
 
 * [20040 - 사이클 게임](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/20040_Problem.py)
+
+* [20949 - 효정과 새 모니터](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/20949_Problem.py)
+
+* [20950 - 미술가 미미](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/20950_Problem.py)
+
+* [20951 - 유아와 곰두리차](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/20951_Problem.py)
