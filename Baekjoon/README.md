@@ -153,6 +153,8 @@
 * [5430 AC](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5430_Problem.py)
 
 * [7490 0 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7490_Problem.py)
+  
+* [7562 나이트의 이동](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7562_Problem.py)
 
 * [7569 토마토](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7569_Problem.py)
 
