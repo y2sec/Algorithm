@@ -24,6 +24,8 @@
 
 * [1302 - 베스트셀러](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1302_Problem.py)
 
+* [1339 - 단어 수학](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1339_Problem.py)
+
 * [1427 - 소트인사이드](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1427_Problem.py)
 
 * [1436 - 영화감독 숌](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1436_Problem.py)
@@ -49,6 +51,8 @@
 * [1715 - 카드 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1715_Problem.py)
 
 * [1717 - 집합의 표현](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1717_Problem.py)
+
+* [1744 - 수 묶기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1744_Problem.py)
 
 * [1753 - 최단경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1753_Problem.py)
 
@@ -127,6 +131,8 @@
 * [2798 - 블랙잭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2798_Problem.py)
 
 * [2805 - 나무 자르기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2805_Problem.py)
+  
+* [2839 - 설탕 배달](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2839_Problem.py)
 
 * [2887 - 행성 터널](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2887_Problem.py)
 
