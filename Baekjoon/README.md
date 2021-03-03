@@ -212,6 +212,8 @@
 
 * [11866 - 요세푸스 문제0](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11866_Problem.py)
 
+* [12015 - 가장 긴 증가하는 부분 수열 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12015_Problem.py)
+
 * [12100 - 2048(Easy) *개선 필요](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12100_Problem.py)
 
 * [12849 - 본대 산책](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12849_Problem.py)
