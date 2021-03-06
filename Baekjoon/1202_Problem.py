@@ -8,7 +8,7 @@ N, K = map(int, sys.stdin.readline().split())
 jewelries = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 bags = [int(sys.stdin.readline()) for _ in range(K)]
 
-jewelries.sort(key=lambda x:x[0])
+jewelries.sort(key=lambda x: x[0])
 bags.sort()
 
 value = 0
