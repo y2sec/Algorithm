@@ -11,3 +11,7 @@
 * [모험가 길드](https://github.com/y2sec/Algorithm/blob/master/Others/5.py)
 
 * [곱하기 혹은 더하기](https://github.com/y2sec/Algorithm/blob/master/Others/6.py)
+
+* [만들 수 없는 금액](https://github.com/y2sec/Algorithm/blob/master/Others/7.py)
+
+* [볼링공 고르기](https://github.com/y2sec/Algorithm/blob/master/Others/8.py)
