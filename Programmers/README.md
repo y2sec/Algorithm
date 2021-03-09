@@ -13,3 +13,11 @@
 * [후보키](https://github.com/y2sec/Algorithm/blob/master/Programmers/6.py)
 
 * [길 찾기 게임](https://github.com/y2sec/Algorithm/blob/master/Programmers/7.py)
+
+* [문자열 압축](https://github.com/y2sec/Algorithm/blob/master/Programmers/8.py)
+
+* [자물쇠와 열쇠](https://github.com/y2sec/Algorithm/blob/master/Programmers/9.py)
+
+* [기둥과 보 설치](https://github.com/y2sec/Algorithm/blob/master/Programmers/10.py)
+
+* [외벽 점검](https://github.com/y2sec/Algorithm/blob/master/Programmers/11.py)
