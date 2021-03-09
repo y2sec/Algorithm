@@ -24,5 +24,5 @@ def solution(n, weak, dist):
         return -1
     return answer
 
-solution(12, [1, 3, 4, 9, 10], [3, 5, 7])
 
+solution(12, [1, 3, 4, 9, 10], [3, 5, 7])
