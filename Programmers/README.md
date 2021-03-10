@@ -21,3 +21,17 @@
 * [기둥과 보 설치](https://github.com/y2sec/Algorithm/blob/master/Programmers/10.py)
 
 * [외벽 점검](https://github.com/y2sec/Algorithm/blob/master/Programmers/11.py)
+
+* [광고 삽입](https://github.com/y2sec/Algorithm/blob/master/Programmers/12.py)
+
+* [가장 큰 정사각형 찾기](https://github.com/y2sec/Algorithm/blob/master/Programmers/13.py)
+
+* [전화번호 목록](https://github.com/y2sec/Algorithm/blob/master/Programmers/14.py)
+
+* [카펫](https://github.com/y2sec/Algorithm/blob/master/Programmers/15.py)
+
+* [타겟 넘버](https://github.com/y2sec/Algorithm/blob/master/Programmers/16.py)
+
+* [순위 검색](https://github.com/y2sec/Algorithm/blob/master/Programmers/17.py)
+
+* [쿼드압축 후 개수 세기](https://github.com/y2sec/Algorithm/blob/master/Programmers/18.py)
