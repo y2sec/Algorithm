@@ -150,6 +150,8 @@
 
 * [2981 검문](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2981_Problem.py)
 
+* [3190 뱀](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/3190_Problem.py)
+
 * [4195 친구 네트워크](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4195_Problem.py)
 
 * [4386 별자리 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/4386_Problem.py)

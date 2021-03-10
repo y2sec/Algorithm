@@ -35,3 +35,7 @@
 * [순위 검색](https://github.com/y2sec/Algorithm/blob/master/Programmers/17.py)
 
 * [쿼드압축 후 개수 세기](https://github.com/y2sec/Algorithm/blob/master/Programmers/18.py)
+  
+* [튜플](https://github.com/y2sec/Algorithm/blob/master/Programmers/19.py)
+
+* [큰 수 만들기](https://github.com/y2sec/Algorithm/blob/master/Programmers/20.py)

@@ -15,3 +15,5 @@
 * [만들 수 없는 금액](https://github.com/y2sec/Algorithm/blob/master/Others/7.py)
 
 * [볼링공 고르기](https://github.com/y2sec/Algorithm/blob/master/Others/8.py)
+
+* [문자열 재정렬](https://github.com/y2sec/Algorithm/blob/master/Others/9.py)
