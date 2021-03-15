@@ -49,3 +49,13 @@
 * [프린터](https://github.com/y2sec/Algorithm/blob/master/Programmers/24.py)
 
 * [신규 아이디 추천](https://github.com/y2sec/Algorithm/blob/master/Programmers/25.py)
+
+* [폰켓몬](https://github.com/y2sec/Algorithm/blob/master/Programmers/26.py)
+
+* [문자열 내 p와 y의 개수](https://github.com/y2sec/Algorithm/blob/master/Programmers/27.py)
+
+* [땅따먹기](https://github.com/y2sec/Algorithm/blob/master/Programmers/28.py)
+
+* [게임 맵 최단거리](https://github.com/y2sec/Algorithm/blob/master/Programmers/29.py)
+
+* [방문 길이](https://github.com/y2sec/Algorithm/blob/master/Programmers/30.py)
