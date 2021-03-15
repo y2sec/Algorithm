@@ -39,3 +39,13 @@
 * [튜플](https://github.com/y2sec/Algorithm/blob/master/Programmers/19.py)
 
 * [큰 수 만들기](https://github.com/y2sec/Algorithm/blob/master/Programmers/20.py)
+
+* [다음 큰 숫자](https://github.com/y2sec/Algorithm/blob/master/Programmers/21.py)
+
+* [올바른 괄호](https://github.com/y2sec/Algorithm/blob/master/Programmers/22.py)
+
+* [삼각 달팽이](https://github.com/y2sec/Algorithm/blob/master/Programmers/23.py)
+
+* [프린터](https://github.com/y2sec/Algorithm/blob/master/Programmers/24.py)
+
+* [신규 아이디 추천](https://github.com/y2sec/Algorithm/blob/master/Programmers/25.py)
