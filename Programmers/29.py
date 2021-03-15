@@ -1,14 +1,18 @@
 # 게임 맵 최단거리
 
+import collections
+
+
 def solution(maps):
     def bfs():
-        queue = [[0, 0, 1]]
+        queue = collections.deque()
+        queue.append([0, 0, 1])
         row, col = len(maps[0]), len(maps)
         visited = [[0 for _ in range(row)] for _ in range(col)]
         visited[0][0] = 1
 
         while queue:
-            x, y, cnt = queue.pop(0)
+            x, y, cnt = queue.popleft()
 
             if x == col - 1 and y == row - 1:
                 return cnt
