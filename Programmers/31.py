@@ -6,6 +6,7 @@ def solution(n):
 
     s_idx = 1
     e_idx = 2
+
     while s_idx < n:
         c_n = sum(number[s_idx:e_idx])
         if c_n == n:
