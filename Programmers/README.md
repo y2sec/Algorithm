@@ -59,3 +59,13 @@
 * [게임 맵 최단거리](https://github.com/y2sec/Algorithm/blob/master/Programmers/29.py)
 
 * [방문 길이](https://github.com/y2sec/Algorithm/blob/master/Programmers/30.py)
+
+* [숫자의 표현](https://github.com/y2sec/Algorithm/blob/master/Programmers/31.py)
+
+* [이진 변환 반복하기](https://github.com/y2sec/Algorithm/blob/master/Programmers/32.py)
+
+* [최댓값과 최솟값](https://github.com/y2sec/Algorithm/blob/master/Programmers/33.py)
+
+* [최솟값 만들기](https://github.com/y2sec/Algorithm/blob/master/Programmers/34.py)
+
+* [피보나치 수](https://github.com/y2sec/Algorithm/blob/master/Programmers/35~~~~.py)
