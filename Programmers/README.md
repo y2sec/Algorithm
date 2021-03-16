@@ -68,4 +68,4 @@
 
 * [최솟값 만들기](https://github.com/y2sec/Algorithm/blob/master/Programmers/34.py)
 
-* [피보나치 수](https://github.com/y2sec/Algorithm/blob/master/Programmers/35~~~~.py)
+* [피보나치 수](https://github.com/y2sec/Algorithm/blob/master/Programmers/35.py)
