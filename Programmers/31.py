@@ -1,4 +1,4 @@
-# 숫자의표현
+# 숫자의 표현
 
 def solution(n):
     answer = 1
