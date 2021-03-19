@@ -17,3 +17,10 @@
 * [볼링공 고르기](https://github.com/y2sec/Algorithm/blob/master/Others/8.py)
 
 * [문자열 재정렬](https://github.com/y2sec/Algorithm/blob/master/Others/9.py)
+
+
+## SCOFE 2021 - 모의 테스트
+
+* [근묵자흑](https://github.com/y2sec/Algorithm/blob/master/Others/10.py)
+
+* [사은품 교환하기](https://github.com/y2sec/Algorithm/blob/master/Others/11.py)
