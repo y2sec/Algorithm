@@ -144,7 +144,11 @@
 
 * [2805 나무 자르기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2805_Problem.py)
  
+* [2812 크게 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2805_Problem.py)
+
 * [2839 설탕 배달](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2839_Problem.py)
+
+* [2847 게임을 만든 동준이](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2839_Problem.py)
 
 * [2887 행성 터널](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2887_Problem.py)
 
@@ -192,12 +196,16 @@
 
 * [10159 저울](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10159_Problem.py)
 
+* [10162 전자레인지](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10162_Problem.py)
+
 * [10217 KCM Travel](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10217_Problem.py)
 
 * [10539 수빈이와 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10539_Problem.py)
 
 * [10773 제로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10773_Problem.py)
  
+* [10775 공항](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10773_Problem.py)
+
 * [10814 나이순 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10814_Problem.py)
 
 * [10816 숫자 카드 2](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10816_Problem.py)
@@ -213,6 +221,8 @@
 * [10930 SHA256](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10930_Problem.py)
 
 * [10989 수 정렬하기3](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/10989_Problem.py)
+
+* [11000 강의실 배정](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11004_Problem.py)
 
 * [11004 K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11004_Problem.py)
 
@@ -273,6 +283,8 @@
 * [16768 Mooyo Mooyo](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16768_Problem.py)
 
 * [16769 Mixing Milk](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16769_Problem.py)
+
+* [16953 A -> B](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16956_Problem.py)
 
 * [16956 늑대와 양](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/16956_Problem.py)
 
