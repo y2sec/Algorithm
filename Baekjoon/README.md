@@ -22,6 +22,8 @@
 
 * [1236 성 지키기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1236_Problem.py)
 
+* [1260 DFS와 BFS](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1260_Problem.py)
+
 * [1300 K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1300_Problem.py)
 
 * [1302 베스트셀러](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1302_Problem.py)
@@ -35,6 +37,8 @@
 * [1449 수리공 항승](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1449_Problem.py)
 
 * [1463 1로 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1463_Problem.py)
+
+* [1495 기타리스트](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1495_Problem.py)
 
 * [1504 특정한 최단 경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1504_Problem.py)
 
@@ -52,6 +56,8 @@
 
 * [1668 트로피 진열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1668_Problem.py)
 
+* [1697 숨바꼭질](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1697_Problem.py)
+
 * [1715 카드 정렬하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1715_Problem.py)
 
 * [1717 집합의 표현](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1717_Problem.py)
@@ -59,6 +65,8 @@
 * [1744 수 묶기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1744_Problem.py)
 
 * [1753 최단경로](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1753_Problem.py)
+
+* [1766 문제집](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1766_Problem.py)
 
 * [1774 우주신과의 교감](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1774_Problem.py)
 
@@ -130,6 +138,8 @@
 
 * [2630 색종이 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2630_Problem.py)
 
+* [2655 가장 높은 탑 쌓기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2655_Problem.py)
+
 * [2667 단지번호붙이기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2667_Problem.py)
 
 * [2740 행렬 곱셈](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2740_Problem.py)
@@ -186,6 +196,8 @@
 
 * [9184 신나는 함수 실행](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9184_Problem.py)
 
+* [9251 LCS](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9251_Problem.py)
+
 * [9370 미확인 도착지](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9370_Problem.py)
 
 * [9372 상근이의 여행](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9372_Problem.py)
@@ -227,6 +239,8 @@
 * [11004 K번째 수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11004_Problem.py)
 
 * [11047 동전 0](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11047_Problem.py)
+
+* [11053 가장 긴 증가하는 부분 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11053_Problem.py)
 
 * [11055 가장 큰 증가 부분 수열](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/11055_Problem.py)
 
