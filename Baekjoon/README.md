@@ -14,6 +14,8 @@
 
 * [1149 RGB거리](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1149_Problem.py)
 
+* [1158 요세푸스 문제](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1158_Problem.py)
+
 * [1181 단어 정렬](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1181_Problem.py)
 
 * [1197 최소 스패닝 트리](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1197_Problem.py)
@@ -120,9 +122,13 @@
 
 * [2206 벽 부수고 이동하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2206_Problem.py)
 
+* [2212 센서](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2212_Problem.py)
+
 * [2217 로프](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2217_Problem.py)
 
 * [2250 트리의 높이와 너비](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2250_Problem.py)
+
+* [2357 최솟값과 최댓값](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2357_Problem.py)
 
 * [2437 저울](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2437_Problem.py)
 
@@ -131,6 +137,8 @@
 * [2480 주사위 세개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2480_Problem.py)
 
 * [2484 주사위 네개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2484_Problem.py)
+
+* [2493 탑](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2493_Problem.py)
 
 * [2565 전깃줄](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2565_Problem.py)
 
