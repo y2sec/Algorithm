@@ -81,3 +81,9 @@
 * [점프와 순간 이동](https://github.com/y2sec/Algorithm/blob/master/Programmers/40.py)
 
 * [괄호 회전하기](https://github.com/y2sec/Algorithm/blob/master/Programmers/41.py)
+
+* [JadenCase 문자열 만들기](https://github.com/y2sec/Algorithm/blob/master/Programmers/42.py)
+
+* [N개의 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Programmers/43.py)
+
+* [짝지어 제거하기](https://github.com/y2sec/Algorithm/blob/master/Programmers/44.py)
