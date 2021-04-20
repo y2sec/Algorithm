@@ -87,3 +87,9 @@
 * [N개의 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Programmers/43.py)
 
 * [짝지어 제거하기](https://github.com/y2sec/Algorithm/blob/master/Programmers/44.py)
+
+* [예상 대진표](https://github.com/y2sec/Algorithm/blob/master/Programmers/45.py)
+
+* [뉴스 클러스터링](https://github.com/y2sec/Algorithm/blob/master/Programmers/46.py)
+
+* [프렌즈4블록](https://github.com/y2sec/Algorithm/blob/master/Programmers/47.py)
