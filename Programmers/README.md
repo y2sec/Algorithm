@@ -93,3 +93,11 @@
 * [뉴스 클러스터링](https://github.com/y2sec/Algorithm/blob/master/Programmers/46.py)
 
 * [프렌즈4블록](https://github.com/y2sec/Algorithm/blob/master/Programmers/47.py)
+
+* [캐시](https://github.com/y2sec/Algorithm/blob/master/Programmers/48.py)
+
+* [방금그곡](https://github.com/y2sec/Algorithm/blob/master/Programmers/49.py)
+
+* [압축](https://github.com/y2sec/Algorithm/blob/master/Programmers/50.py)
+
+* [파일명 정렬](https://github.com/y2sec/Algorithm/blob/master/Programmers/51.py)
