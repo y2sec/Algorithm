@@ -101,3 +101,15 @@
 * [압축](https://github.com/y2sec/Algorithm/blob/master/Programmers/50.py)
 
 * [파일명 정렬](https://github.com/y2sec/Algorithm/blob/master/Programmers/51.py)
+
+* [키패드 누르기](https://github.com/y2sec/Algorithm/blob/master/Programmers/52.py)
+
+* [보석 쇼핑](https://github.com/y2sec/Algorithm/blob/master/Programmers/53.py)
+
+* [경주로 건설](https://github.com/y2sec/Algorithm/blob/master/Programmers/54.py)
+
+* [크레인 인형뽑기 게임](https://github.com/y2sec/Algorithm/blob/master/Programmers/55.py)
+
+* [불량 사용자](https://github.com/y2sec/Algorithm/blob/master/Programmers/56.py)
+
+* [징검다리 건너기](https://github.com/y2sec/Algorithm/blob/master/Programmers/57.py)
