@@ -30,8 +30,4 @@ def solution(rows, columns, queries):
     for sx, sy, ex, ey in queries:
         answer.append(rotate(sx - 1, sy - 1, ex - 1, ey - 1))
 
-
     return answer
-
-
-solution(6, 6, 	[[2,2,5,4],[3,3,6,6],[5,1,6,3]])
