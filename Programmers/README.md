@@ -113,3 +113,11 @@
 * [불량 사용자](https://github.com/y2sec/Algorithm/blob/master/Programmers/56.py)
 
 * [징검다리 건너기](https://github.com/y2sec/Algorithm/blob/master/Programmers/57.py)
+
+* [호텔 방 배정](https://github.com/y2sec/Algorithm/blob/master/Programmers/58.py)
+
+* [동굴 탐험](https://github.com/y2sec/Algorithm/blob/master/Programmers/59.py)
+
+* [n진수 게임](https://github.com/y2sec/Algorithm/blob/master/Programmers/60.py)
+
+* [행렬 테두리 회전하기](https://github.com/y2sec/Algorithm/blob/master/Programmers/61.py)
