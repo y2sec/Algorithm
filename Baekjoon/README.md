@@ -132,7 +132,11 @@
 
 * [2437 저울](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2437_Problem.py)
 
+* [2447 별 찍기 - 10](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2447_Problem.py)
+
 * [2458 키 순서](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2458_Problem.py)
+
+* [2470 두 용액](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2470_Problem.py)
 
 * [2480 주사위 세개](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2480_Problem.py)
 
@@ -191,6 +195,8 @@
 * [5397 키로거](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5397_Problem.py)
 
 * [5430 AC](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5430_Problem.py)
+
+* [5904 Moo 게임](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/5904_Problem.py)
 
 * [7490 0 만들기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/7490_Problem.py)
   
