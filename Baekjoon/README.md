@@ -84,6 +84,8 @@
 
 * [1920 수 찾기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1920_Problem.py)
 
+* [1922 네트워크 연결](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1922_Problem.py)
+
 * [1927 최소 힙](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1927_Problem.py)
 
 * [1931 회의실 배정](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1931_Problem.py)
@@ -211,6 +213,8 @@
 * [9037 The candy war](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9037_Problem.py)
 
 * [9184 신나는 함수 실행](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9184_Problem.py)
+
+* [9205 맥주 마시면서 걸어가기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9205_Problem.py)
 
 * [9251 LCS](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/9251_Problem.py)
 
