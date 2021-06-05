@@ -82,6 +82,8 @@
 
 * [1915 가장 큰 정사각형](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1915_Problem.py)
 
+* [1916 최소비용 구하기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1916_Problem.py)
+
 * [1920 수 찾기](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1920_Problem.py)
 
 * [1922 네트워크 연결](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/1922_Problem.py)
@@ -295,6 +297,8 @@
 * [12865 평범한 배낭](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/12865_Problem.py)
 
 * [13305 주유소](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/13305_Problem.py)
+
+* [14502 연구소](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14502_Problem.py)
 
 * [14620 꽃길](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/14620_Problem.py)
 
