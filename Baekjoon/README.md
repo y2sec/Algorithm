@@ -148,6 +148,8 @@
 
 * [2493 탑](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2493_Problem.py)
 
+* [2512 예산](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2512_Problem.py)
+
 * [2565 전깃줄](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2565_Problem.py)
 
 * [2609 최대공약수와 최소공배수](https://github.com/y2sec/Algorithm/blob/master/Baekjoon/2609_Problem.py)
