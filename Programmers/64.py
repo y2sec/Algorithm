@@ -19,8 +19,8 @@ def solution(jobs):
         answer += (ms + time) - req
         ms += time
 
-        if jobs and not jobHeap and ms < jobs[0][0]:
-            ms = jobs[0][0]
+        if jobs and not jobHeap:
+            ms = max(ms, jobs[0][0])
 
         while jobs and ms >= jobs[0][0]:
             req, time = heapq.heappop(jobs)
