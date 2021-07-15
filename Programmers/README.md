@@ -121,3 +121,11 @@
 * [n진수 게임](https://github.com/y2sec/Algorithm/blob/master/Programmers/60.py)
 
 * [행렬 테두리 회전하기](https://github.com/y2sec/Algorithm/blob/master/Programmers/61.py)
+
+* [입국심사](https://github.com/y2sec/Algorithm/blob/master/Programmers/62.py)
+
+* [가장 먼 노드](https://github.com/y2sec/Algorithm/blob/master/Programmers/63.py)
+
+* [디스크 컨트롤러](https://github.com/y2sec/Algorithm/blob/master/Programmers/64.py)
+
+* [네트워크](https://github.com/y2sec/Algorithm/blob/master/Programmers/65.py)
