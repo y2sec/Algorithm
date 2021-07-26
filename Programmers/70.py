@@ -1,16 +1,10 @@
 # 다단계 칫솔 판매
 
 def solution(enroll, referral, seller, amount):
-    answer = []
-
-    proceed = dict()
-    for name in enroll:
-        proceed[name] = 0
+    proceed = {name : 0 for name in enroll}
     proceed['-'] = 0
 
-    parent = dict()
-    for idx in range(len(enroll)):
-        parent[enroll[idx]] = referral[idx]
+    parent = {enroll[idx] : referral[idx] for idx in range(len(enroll))}
     parent['-'] = None
 
     for idx in range(len(seller)):
@@ -24,10 +18,7 @@ def solution(enroll, referral, seller, amount):
             currentPeople = parent[currentPeople]
             currentAmount = parentAmount
 
-    for name in enroll:
-        answer.append(proceed[name])
-
-    return answer
+    return [proceed[name] for name in enroll]
 
 
 print(solution(["john", "mary", "edward", "sam", "emily", "jaimie", "tod", "young"],
