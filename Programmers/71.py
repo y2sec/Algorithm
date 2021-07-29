@@ -32,7 +32,6 @@ def solution(operations):
 
         heapq.heappop(minHeap)
 
-
     if cnt == 0:
         return [0, 0]
 
