@@ -129,3 +129,17 @@
 * [디스크 컨트롤러](https://github.com/y2sec/Algorithm/blob/master/Programmers/64.py)
 
 * [네트워크](https://github.com/y2sec/Algorithm/blob/master/Programmers/65.py)
+
+* [순위](https://github.com/y2sec/Algorithm/blob/master/Programmers/66.py)
+
+* [단어 변환](https://github.com/y2sec/Algorithm/blob/master/Programmers/67.py)
+
+* [2 x N 타일링](https://github.com/y2sec/Algorithm/blob/master/Programmers/68.py)
+
+* [셔틀버스](https://github.com/y2sec/Algorithm/blob/master/Programmers/69.py)
+
+* [다단계 칫솔 판매](https://github.com/y2sec/Algorithm/blob/master/Programmers/70.py)
+
+* [이중우선순위큐](https://github.com/y2sec/Algorithm/blob/master/Programmers/71.py)
+
+* [추석 트래픽](https://github.com/y2sec/Algorithm/blob/master/Programmers/72.py)
