@@ -9,14 +9,14 @@ def solution(lines):
     for line in lines:
         day, time, need = line.split()
         endTime = datetime.datetime.strptime(day + time, '%Y-%m-%d%H:%M:%S.%f')
-        traffics.append((endTime - datetime.timedelta(seconds=float(need[:-1])) + datetime.timedelta(microseconds=1000), endTime))
+        traffics.append((endTime - datetime.timedelta(seconds=float(need[:-1]) - 0.001), endTime))
 
     traffics.sort(key=lambda x: x[1])
 
     for k in range(2):
         for i in range(len(traffics)):
             startTime = traffics[i][k]
-            endTime = startTime + datetime.timedelta(seconds=1) - datetime.timedelta(microseconds=1000)
+            endTime = startTime + datetime.timedelta(seconds=0.999)
             cnt = 1
             for j in range(i + 1, len(traffics)):
                 if traffics[j][0] <= startTime <= traffics[j][1]:
