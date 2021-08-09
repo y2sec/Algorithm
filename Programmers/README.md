@@ -143,3 +143,15 @@
 * [이중우선순위큐](https://github.com/y2sec/Algorithm/blob/master/Programmers/71.py)
 
 * [추석 트래픽](https://github.com/y2sec/Algorithm/blob/master/Programmers/72.py)
+
+* [모두 0으로 만들기](https://github.com/y2sec/Algorithm/blob/master/Programmers/73.py)
+
+* [가장 긴 팰린드롬](https://github.com/y2sec/Algorithm/blob/master/Programmers/74.py)
+
+* [기지국 설치](https://github.com/y2sec/Algorithm/blob/master/Programmers/75.py)
+
+* [부족한 금액 계산하기](https://github.com/y2sec/Algorithm/blob/master/Programmers/76.py)
+
+* [풍선 터트리기](https://github.com/y2sec/Algorithm/blob/master/Programmers/77.py)
+
+* [상호 평가](https://github.com/y2sec/Algorithm/blob/master/Programmers/78.py)
