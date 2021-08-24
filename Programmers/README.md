@@ -155,3 +155,17 @@
 * [풍선 터트리기](https://github.com/y2sec/Algorithm/blob/master/Programmers/77.py)
 
 * [상호 평가](https://github.com/y2sec/Algorithm/blob/master/Programmers/78.py)
+* 
+* [여행경로](https://github.com/y2sec/Algorithm/blob/master/Programmers/79.py)
+* 
+* [110 옮기기](https://github.com/y2sec/Algorithm/blob/master/Programmers/80.py)
+* 
+* [멀리 뛰기](https://github.com/y2sec/Algorithm/blob/master/Programmers/81.py)
+* 
+* [야근 지수](https://github.com/y2sec/Algorithm/blob/master/Programmers/82.py)
+* 
+* [최고의 집합](https://github.com/y2sec/Algorithm/blob/master/Programmers/83.py)
+* 
+* [스티커 모으기(2)](https://github.com/y2sec/Algorithm/blob/master/Programmers/84.py)
+* 
+* [줄 서는 방법](https://github.com/y2sec/Algorithm/blob/master/Programmers/85.py)
